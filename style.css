@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('./img/main1.jpg'); /* Путь к вашему изображению */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Заполняет всю высоту видимой области */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    margin-left: -60%;
+    margin-top: -42%;
+    width: 350px;
+    height: 350px;
+}
+
+.logo1 {
+    margin-left: 65%;
+    margin-top: -43%;
+    width: 200px;
+    height: 200px;
+}
+
+.card1 {
+    margin-top: -18%;
+    margin-left: -85%;
+    width: 400px;
+    height: 250px;
+}
